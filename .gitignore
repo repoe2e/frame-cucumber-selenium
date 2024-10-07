@@ -1,0 +1,44 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.settings/
+bin/
+target/
+
+# Maven
+*.jar
+*.war
+*.ear
+
+# Cucumber reports
+cucumber-report.html
+cucumber.json
+
+# Selenium
+webdriver*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Java build directories
+out/
+build/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Other common IDE files
+.vscode/
+*.swp
